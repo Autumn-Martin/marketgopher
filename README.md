@@ -1,5 +1,7 @@
 # MarketGopher
 
+![gopher-server](https://user-images.githubusercontent.com/36902512/174681296-106e4d77-5a74-4954-9d16-966dfa1f808a.png)
+
 Welcome to MarketGopher, a CLI tool to compute aggregate market data.
 
 MarketGopher listens to standard output for trades, parses each trade as it comes in, continuously computes aggregate metrics for each market, and outputs the final result.
