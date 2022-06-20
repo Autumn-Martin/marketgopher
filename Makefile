@@ -1,0 +1,2 @@
+bm:
+	go test -bench=.
